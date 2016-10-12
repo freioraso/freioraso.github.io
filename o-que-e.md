@@ -6,4 +6,6 @@ permalink: /o-que-e
 
 A Freio Raso é um zine organizado por um menino e uma menina que decidiram tentar mudar o mundo com as palavras.
 
-Passamos nossa vida correndo atrás de coisas. Ônibus, pessoas, bolas de futebol. Mas quando realmente paramos para apreciar o que há a nossa volta? Para isso existe a arte, mas ela está cada vez menos presente no nosso dia-a-dia. Com esse zine, pretendemos mudar isso, deixando um pouquinho de arte na vida das pessoas, possibilitando que elas _freiem_ um pouco sua vida, parando para olhar em volta e ver que há muito mais além da rotina.
+De edição (mais ou menos) semanal, traz textos, poemas, contos, músicas, desenhos e frases para a vida das pessoas, provocando uma quebra na rotina, _freiando_ a corrida do dia-a-dia.
+
+Tem como objetivo promover a arte e trazê-la para o cotidiano das pessoas, inspirando as pessoas para algo melhor.
