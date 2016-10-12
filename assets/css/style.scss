@@ -2,7 +2,7 @@
 ---
 
 html, body {
-	margin: 0.5rem;
+	margin: 0.25rem;
 	padding: 0;
 
 	overflow-x: hidden;
@@ -57,13 +57,11 @@ a:hover {
 	width: auto;
 }
 .subtitle {
-	margin: 1rem;
+	margin: 3rem auto;
 	font-size: 1.5em;
 }
 
-
 .title {
-	margin: 0 auto;
 	margin: 5vh auto;
 	font-size: 1.5em;
 	font-weight: bold;
@@ -84,7 +82,7 @@ hr {
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
 	.logo {
-		height: 20vh;
+		height: 15vh;
 	}
 	.subtitle {
 		font-size: 1em;
