@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+
+	<title>Freio Raso</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Coming+Soon&text=Freio%20Raso" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+	
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="/assets/js/responsiveslides.min.js"></script>
+	<script src="/assets/js/reader.js"></script>
+</head>
+<body>
+	{% include header.html %}
+	<ul class="rslides">
+		{% for i in (0..7) %}
+			<li><img src="/assets/release/{{ page.release }}/{{ i }}.png" alt=""></li>
+		{% endfor %}
+	</ul>
+	{% include footer.html %}
+</body>
+</html>

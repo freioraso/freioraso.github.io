@@ -79,6 +79,45 @@ hr {
 	font-size: 1.15em;
 }
 
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+.rslides_nav {
+	padding: 0 2em;
+	font-weight: bold;
+	border-bottom: none !important;
+	transition: none;
+}
+
 @media only screen
 and (min-device-width : 320px)
 and (max-device-width : 480px) {
