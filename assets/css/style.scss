@@ -79,6 +79,20 @@ hr {
 	font-size: 1.15em;
 }
 
+.releases {
+	list-style: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.releases li a {
+	padding: 0.75rem;
+	border: solid black 2px;
+	background-color: hsl(0, 0, 97);
+}
+.releases li a:hover {
+	background-color: hsl(0, 0, 93);
+}
+
 .rslides {
   position: relative;
   list-style: none;

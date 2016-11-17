@@ -1,5 +1,0 @@
----
-layout: reader
-release: 2016-09-04
-permalink: /primeira
----

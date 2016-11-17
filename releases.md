@@ -1,0 +1,4 @@
+---
+layout: releases
+permalink: /edicoes/
+---
